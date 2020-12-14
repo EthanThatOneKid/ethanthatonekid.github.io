@@ -1,7 +1,3 @@
-# **EthanThatOneKid**`.github.io`
-
-> The GitHub homepage of EthanThatOneKid
-
 ## Current Open Source Projects
 
 - **ACM Club**
