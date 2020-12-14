@@ -1,6 +1,6 @@
 # **EthanThatOneKid**`.github.io`
 
-> 
+> The GitHub homepage of EthanThatOneKid
 
 ## Current Open Source Projects
 
@@ -10,9 +10,14 @@
     - [Competition Manager Newsletters](https://github.com/EthanThatOneKid/acm-competition-manager)
 - **Miscellaneous**
     - [CardWars Online](https://github.com/641i130/card-wars-online)
+    - [Simple Minecraft Server Instructions](https://github.com/EthanThatOneKid/simple-minecraft-server)
+    - [Personal API](https://github.com/EthanThatOneKid/api.ethandavidson.com)
 - **Private**
     - [Link Companion](https://github.com/EthanThatOneKid/links)
     - [Neopets Research/Dailies Platform](https://github.com/EthanThatOneKid/neopets-research)
     - [Maffinity (Desmos Clone)](https://github.com/EthanThatOneKid/maffinity)
     - [WebSocket x Authentication Experiement](https://github.com/EthanThatOneKid/ws-auth)
-    - [Personal API](https://github.com/EthanThatOneKid/api.ethandavidson.com)
+
+---
+
+Contributing with 💖 by EthanThatOneKid
