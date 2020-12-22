@@ -2,7 +2,7 @@
 
 - **ACM Club**
     - [TuffyHacks Website](https://github.com/TuffyHacks/TuffyHacks-2021)
-    - [ACM Website](https://github.com/CSUF-ACM/acmwebsite)
+    - [ACM Website](https://github.com/EthanThatOneKid/acm-csuf-website)
     - [Competition Manager Newsletters](https://github.com/EthanThatOneKid/acm-competition-manager)
 - **Miscellaneous**
     - [CardWars Online](https://github.com/641i130/card-wars-online)
