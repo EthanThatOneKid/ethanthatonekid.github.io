@@ -1,11 +1,10 @@
 ## Current Open Source Projects
 
 - **ACM Club**
-    - [TuffyHacks Website](https://github.com/TuffyHacks/TuffyHacks-2021)
+    - [TuffyHacks Event Website](https://github.com/EthanThatOneKid/event.tuffyhacks.com)
     - [ACM Website](https://github.com/EthanThatOneKid/acmcsuf.com)
 - **Miscellaneous**
     - [CardWars Online](https://github.com/641i130/card-wars-online)
-    - [Simple Minecraft Server Instructions](https://github.com/EthanThatOneKid/simple-minecraft-server)
     - [Personal API](https://github.com/EthanThatOneKid/api.ethandavidson.com)
 - **Private (Non-Open Source)**
     - [Link Companion](https://github.com/EthanThatOneKid/links)
