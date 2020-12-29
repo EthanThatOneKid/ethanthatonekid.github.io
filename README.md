@@ -1,4 +1,4 @@
-# [`ethanthatonekid.github.io`][site] 😺
+# [`ethanthatonekid.github.io`][site] 🐱‍👤
 
 > Welcome to the GitHub homepage of EthanThatOneKid!!
 
