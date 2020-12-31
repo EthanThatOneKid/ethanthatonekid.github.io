@@ -10,10 +10,6 @@
     - [Link Companion](https://github.com/EthanThatOneKid/links)
     - [Neopets Research/Dailies Platform](https://github.com/EthanThatOneKid/neopets-research)
 
-## Aspirations
-
-- [Get Melee on my PC](https://slippi.gg/netplay)
-
 ---
 
 Contributing with 💖 by EthanThatOneKid
