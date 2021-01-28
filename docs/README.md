@@ -2,7 +2,7 @@
 
 - **ACM Club**
     - [ACM CSUF Website](https://github.com/EthanThatOneKid/acmcsuf.com)
-    - [TuffyHacks Event](https://github.com/EthanThatOneKid/event.tuffyhacks.com)
+    - [TuffyHacks Event](https://github.com/EthanThatOneKid/tuffyhacks.com)
 - **Miscellaneous**
     - [CardWars Online](https://github.com/641i130/card-wars-online)
     - [Personal API](https://github.com/EthanThatOneKid/api.ethandavidson.com)
