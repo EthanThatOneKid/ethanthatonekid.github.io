@@ -8,10 +8,10 @@
 
 <p align="center">
     <a href="https://github.com/ethanthatonekid/acmcsuf.com/">
-        <img src="https://img.shields.io/badge/EthanThatOneKid-acmcsuf.com-white?logo=github" alt="acmcsuf.com repository" />
-    </a>
+        acmcsuf.com Repository
+    </a>,
     <a href="https://github.com/ethanthatonekid/tuffyhacks.com/">
-        <img src="https://img.shields.io/badge/EthanThatOneKid-tuffyhacks.com-white?logo=github" alt="tuffyhacks.com repository" />
+        tuffyhacks.com Repository
     </a>
 </p>
 
@@ -19,10 +19,10 @@
 
 <p align="center">
     <a href="https://github.com/ethanthatonekid/api.ethandavidson.com/">
-        <img src="https://img.shields.io/badge/EthanThatOneKid-api.ethandavidson.com-white?logo=github" alt="api.ethandavidson.com repository" />
-    </a>
+        api.ethandavidson.com Repository
+    </a>,
     <a href="https://github.com/ethanthatonekid/ideas#readme">
-        <img src="https://img.shields.io/badge/EthanThatOneKid-ideas-white?logo=github" alt="ideas repository" />
+        Ideas repository
     </a>
 </p>
 
