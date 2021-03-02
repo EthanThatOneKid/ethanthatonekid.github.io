@@ -8,10 +8,11 @@
 
 <p align="center">
     <a href="https://github.com/ethanthatonekid/acmcsuf.com/">
-        acmcsuf.com Repository
-    </a>,
+        acmcsuf.com
+    </a>
+    |
     <a href="https://github.com/ethanthatonekid/tuffyhacks.com/">
-        tuffyhacks.com Repository
+        tuffyhacks.com
     </a>
 </p>
 
@@ -19,10 +20,11 @@
 
 <p align="center">
     <a href="https://github.com/ethanthatonekid/api.ethandavidson.com/">
-        api.ethandavidson.com Repository
-    </a>,
+        api.ethandavidson.com
+    </a>
+    |
     <a href="https://github.com/ethanthatonekid/ideas#readme">
-        Ideas repository
+        Ideas
     </a>
 </p>
 
