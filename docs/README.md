@@ -29,6 +29,5 @@
 ---
 
 <p align="center">
-    
-Contributing with 💖 by EthanThatOneKid
+    Contributing with 💖 by EthanThatOneKid
 </p>
