@@ -18,6 +18,10 @@
     <a href="https://github.com/ethanthatonekid/ideas#readme">
         Ideas
     </a>
+    |
+    <a href="https://github.com/EthanThatOneKid/csuf-binder/tree/main/spring21#readme">
+        CSUF Binder
+    </a>
 </p>
 
 <h1 align="center">
