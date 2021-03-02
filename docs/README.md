@@ -1,5 +1,3 @@
-<h1 align="center">EthanThatOneKid HQ</h1>
-
 <p align="center">
     <a href="https://calendar.google.com/calendar/u/0/r?pli=1">
         Google Calendar
@@ -22,8 +20,4 @@
     </a>
 </p>
 
----
-
-<p align="center">
-    Contributing with 💖 by EthanThatOneKid
-</p>
+<h1 align="center">🤟✨🤟✨🤟✨🤟✨🤟✨🤟✨🤟✨🤟✨🤟✨🤟✨🤟✨🤟</h1>
