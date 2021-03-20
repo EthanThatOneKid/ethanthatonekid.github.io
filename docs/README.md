@@ -10,6 +10,10 @@
     <a href="https://www.reddit.com/">
         Reddit
     </a>
+    |
+    <a href="http://gmail.google.com/">
+        Inbox
+    </a>
 </p>
 
 <h1 align="center">
