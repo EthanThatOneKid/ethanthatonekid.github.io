@@ -14,6 +14,10 @@
     <a href="http://gmail.google.com/">
         Inbox
     </a>
+    |
+    <a href="https://calendar.google.com/calendar/u/0/r?pli=1">
+        Calendar
+    </a>
 </p>
 
 <h1 align="center">
@@ -21,28 +25,20 @@
 </h1>
 
 <p align="center">
-    <a href="https://calendar.google.com/calendar/u/0/r?pli=1">
-        Google Calendar
-    </a>
-    |
     <a href="https://github.com/ethanthatonekid/acmcsuf.com/">
         acmcsuf.com
     </a>
     |
-    <a href="https://github.com/ethanthatonekid/tuffyhacks.com/">
+    <a href="https://github.com/th-admin/tuffyhacks.com/">
         tuffyhacks.com
     </a>
     |
-    <a href="https://github.com/ethanthatonekid/api.ethandavidson.com/">
-        api.ethandavidson.com
-    </a>
-    |
-    <a href="https://github.com/ethanthatonekid/ideas#readme">
-        Ideas
+    <a href="https://github.com/ethanthatonekid/fart/">
+        fart
     </a>
     |
     <a href="https://github.com/EthanThatOneKid/csuf-binder/tree/main/spring21#readme">
-        CSUF Binder
+        csuf binder
     </a>
 </p>
 
