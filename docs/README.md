@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://leetcode.com/">Leetcode</a> |
-    <a href="https://acmcsuf.com/oss-docs">acmcsufoss</a> |
+    <a href="https://gemini.google.com/app">Gemini</a> |
     <a href="https://fartlabs.org/">FartLabs</a> |
     <a href="https://www.serebii.net/">Serebii</a> |
     <a href="https://www.jellyneo.net/">Jellyneo</a>
